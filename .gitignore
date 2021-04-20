@@ -1,0 +1,11 @@
+# Dependecies
+node_modules
+
+# Output Dir
+build
+
+# Env Files
+.env
+.env.local
+.env.production
+

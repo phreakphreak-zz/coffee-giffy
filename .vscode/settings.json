@@ -1,13 +1,5 @@
 {
-    "javascript.suggestionActions.enabled": false,
-    "cSpell.words": [
-        "Giffy"
-    ],
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
-    "eslint.validate": [
-        "javascript"
-    ],
-    "npm-scripts.showStartNotification": false
+  "javascript.suggestionActions.enabled": false,
+  "cSpell.words": ["Giffy"],
+  "npm-scripts.showStartNotification": false
 }
